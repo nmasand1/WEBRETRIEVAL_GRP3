@@ -1,0 +1,47 @@
+Artificial Intelligence (Al) and Machine Learning (ML) tools for
+image driven 2D materials (e.g., Graphene) discovery
+
+Hafiz Munsub Ali, Venkata Gadhamshetty, Bharat Jasthi, Etienne Z. Gnimpieba
+
+Abstract:
+
+Objective: The increased interest in 2D material development lies in its ability to address diverse problems
+in various domains, from infrastructure to biomedicine applications. Recent advances in data science and
+data driven discovery allow scientist to leverage artificial intelligence (Al) and machine learning (ML)
+techniques to tackle complex scientific challenges involved 2D material. Among various data modalities
+used in 2D material discovery, microscopic and spectroscopic data present a unique capability and
+involved in almost every developmental process from material design to characterization and
+maintenance. This paper presents a systematic review of current advances, issues, research gaps, and
+future trends in 2D material based microscopic and spectroscopic data using Al and ML techniques.
+Method: We use PRISMA, an objective design method for literature reviews, for this review, whereas
+PRISMA relies on a rigorous process to improve the relevance of the selected papers and the
+reproducibility of the review process. Our design allowed us to query three publication databases (WoS,
+PubMed, Dimensions) and focus on two key research questions. The Quality of data in relevant papers
+was assessed using the FAIR (Findable, Accessible, Interoperable, Reusable) compliance criteria to
+evaluate and encourage reproducibility and shareability of research outcomes. Results: PRISMA identify
+31 key articles relevant to this topic. Since 2017, an upward trend in appreciation of Al and ML techniques
+forthe tasks such as prediction, classification, clustering, deep learning, and Al, to solve the issues involve
+2D materials using microscopic images and spectroscopic data. From the relevant set of articles, the tasks
+prediction, classification, deep learning, clustering, and Al appeared 38.98%, 28.81%, 13.56%, 10.17%, and
+8.47% respectively. Here, Al task refers to the combination of two or more ML methods or the
+combination of one ML and one other method to solve the data driven issues. Current research trend (i.e.,
+8.47%) shows that Al is still an underexplored computing technique. Conclusion: The most studied
+questions are 2D new material synthesis and engineering with reasonable appreciation for functional
+discovery/property, defect characterization and grain boundary, but work on corrosion application/detection
+is not done yet as per our analysis. Diversity and range of microscopic and spectroscopic data implies
+multi-level difficulty due to: (a) types of apparatus to generate data, (b) availability of computational
+resources and domain knowledge, (c) Al and ML techniques to solve specific problems. A lack in
+homogenous validation criteria for different representation and identification methods is observed which
+is an obstacle in standardized performance comparisons for different Al/ML algorithms. Significance: This
+review is envisioned for broader research community who may be interested to focus their research on
+
+vou
+
+following three keywords: “2D materials”, “microscopic mage and spectroscopic data”, “Al and ML”.
+Keywords: 2D materials, microscopic images, spectroscopic data, artificial intelligence (Al), machine
+
+learning (ML),
+
+Table of Contents
+
+HR Yo fo To 11 ox {fo o FOURS 3
